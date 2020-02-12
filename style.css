@@ -148,7 +148,7 @@ button:focus {
 * MOBILE SITE
 */
 
-@media screen and (max-width: 475px) {
+@media screen and (max-width: 1020px) {
   body {
     background-color: var(--dark);
   }
