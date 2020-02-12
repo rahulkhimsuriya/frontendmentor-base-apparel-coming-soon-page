@@ -1,5 +1,7 @@
 # Frontend Mentor - Base Apparel coming soon page
 
+[Live Preview Link](https://frontendmentor-base-apparel-coming-soon-page.now.sh/)
+
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
